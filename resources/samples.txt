@@ -1,0 +1,4 @@
+Netherrack,0.95,0.2,0.04,2.5,0.15
+end sand,0.45,0.5,0.09,7.5,0.45
+bedrock,0.15,0.8,0.4,10.5,0.75
+nfbdjknbdjnbdflkjnbdflkjnbfdklbkf
